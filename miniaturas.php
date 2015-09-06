@@ -1,3 +1,5 @@
+
+<div align="center">
 <div class="row">
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
@@ -103,4 +105,5 @@
       </div>
     </div>
   </div>
+</div>
 </div>
